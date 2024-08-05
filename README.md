@@ -1,1 +1,3 @@
-- 👋 Hi, I’m @luzzardik
+- 👋   Hi, I’m @luzzardik
+- 🤓   I've founded Abrege (@nonam-abrege). I've also co-founded and funded Le Déclic (@ledeclic.media).
+- 🎙️   I'm one of the original contributors to all Radio Pulsar in-house and open-data tools.
