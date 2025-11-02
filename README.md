@@ -1,4 +1,4 @@
 - 👋   Hi, I’m @luzzardik
-- 🤓   I've co-founded and funded Le Déclic (@ledeclic.media).
+- 🤓   I've co-founded and funded Le Déclic (@ledeclic on Github, @ledeclic.media everywhere else).
 - 🧙🏻‍♂️   I'm Lead Sysadmin and Developer for Le Banquet du Sorcier (@lebanquetdusorcier), a wizardly-infused Minecraft roleplay server based on Harry Potter's universe.
 - 🎙️   In the past, I've maintained all Radio Pulsar in-house and open-data tools and founded Abrege (@nonam-abrege).
